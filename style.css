@@ -1,0 +1,23 @@
+body {
+    height: 100vh;
+    color: aliceblue;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(to top, #001f4c, #121e40, #191e35, #1d1e2a, #1e1e1f);
+}   
+
+.Form{
+    padding: 5% 0;
+}
+table, th{
+    color: aliceblue;
+}
+td{
+    color: aliceblue;
+}
+h1{
+    padding: 30px;
+    text-align: center;
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 40px;
+}
